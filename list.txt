@@ -1,4 +1,4 @@
-picom
+picom https://github.com/jonaburg/picom
 rofi
 zsh
 polybar
