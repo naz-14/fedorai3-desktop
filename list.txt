@@ -1,0 +1,8 @@
+picom
+rofi
+zsh
+polybar
+flameshot
+kitty
+firacode fonts
+
