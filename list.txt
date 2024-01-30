@@ -5,4 +5,4 @@ polybar
 flameshot
 kitty
 firacode fonts
-
+android tools no permissions https://github.com/M0Rf30/android-udev-rules
