@@ -1,0 +1,89 @@
+Host demo_enigmasuite
+    HostName 54.161.101.237
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+
+Host prod_elgeneral
+    HostName 18.232.75.73
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host prod_elgeneral
+    HostName 18.232.75.73
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/prod-va.pem
+Host prod_migrantes
+    HostName 54.196.84.25
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host aylesva
+    HostName 174.129.136.7
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host fey_registro_prod
+    HostName 54.224.30.220
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host sandbox_enigmasuite
+    HostName 54.159.235.162
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host accesolive
+    HostName 54.162.73.140
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host jaripeotickets
+    HostName 54.152.61.244
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host registro_jaripeotickets
+    HostName 54.173.95.231
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host sipnpaints
+    HostName 3.90.9.132
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_luchalibre
+    HostName 3.90.234.73
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host b2b-enigma
+    HostName 54.147.99.174
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_sbp
+    HostName 52.91.139.229
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host aylesva_us
+    HostName 54.81.71.112
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_enigmatech
+    HostName 18.206.181.119
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host test_marketplace
+    HostName 52.206.114.244
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_test
+    HostName 54.196.92.187
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_lacosta
+    HostName 3.80.166.165
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_acceso
+    HostName 18.208.231.45
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_titan
+    HostName 3.89.150.227
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
+Host events_cbnpromo
+    HostName 3.89.233.218
+    User ubuntu
+    IdentityFile ~/Documents/enigma/pemfiles/LightsailDefaultKey-us-east-1.pem
